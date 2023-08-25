@@ -2,7 +2,7 @@
 
 I'm not a 3D Artist just a full stack developer
 I used Spline to create this fun 3D Scene
-Spline is a very good tool and i wanted to use it
+Spline is a very good tool and i wanted to use it.
 If you want to contact me for doing website here is my linkedin profile :
 https://www.linkedin.com/in/romain-chanteloup/
 
