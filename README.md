@@ -1,5 +1,8 @@
 ## This is the cybertruck
 
+![image](https://github.com/user-attachments/assets/52be3537-06c1-43c6-bb5d-018cb44072ca)
+
+
 I'm not a 3D Artist just a full stack developer
 I used Spline to create this fun 3D Scene
 Spline is a very good tool and i wanted to use it
